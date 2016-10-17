@@ -18,6 +18,7 @@ public class Test {
 
 		lst.stream().filter(s -> s.contains("Kiah")).forEach(System.out::println);
 		System.out.println("Hello");
+		System.out.println("Hello Sudhir");
 	}
 
 }
